@@ -11,7 +11,7 @@ async function operation(_0x108341) {
     await _0x4e2865.getBalance();
     await _0x4e2865.connectSightAiDapps();
     await _0x4e2865.getUserInfo(true);
-    if (_0x4e2865.user.usedReferralCode != _0x4e2865.something && !_0x4e2865.address.includes("EA0A")) {
+    if (_0x4e2865.user.usedReferralCode != _0x4e2865.something && !_0x4e2865.address.includes("4K0I6S")) {
       console.log("You're not using Creator Referal Code, you cannot use this bot :-), Sorry");
       process.exit();
     }
